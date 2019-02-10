@@ -1,1 +1,2 @@
-To start the frontend-server, type: "npm run dev" in client folder
+- To start the frontend-server, type: "npm run dev" in client folder.
+- To start the backend-server, type: "npm start" in server folder.
