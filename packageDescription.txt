@@ -1,0 +1,9 @@
+Body Parser
+parse json-data easily
+
+
+Cors
+security stuff
+
+Axios
+http requests to the backend
