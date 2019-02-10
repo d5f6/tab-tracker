@@ -1,0 +1,1 @@
+To start the frontend-server, type: "npm run dev" in client folder
